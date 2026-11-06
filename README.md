@@ -9,7 +9,7 @@
 [![Lisensi](https://img.shields.io/badge/Status-Resmi_Sekolah-10b981.svg?style=flat-square)](https://babadan.sch.id)
 
 <p align="center">
-  Aplikasi mobile resmi SDN Babadan 01 Wlingi untuk pemantauan presensi gerbang RFID sekolah secara real-time, rekapitulasi e-Rapor Kurikulum Merdeka, dan buku ketertiban murid bagi wali murid serta tenaga pendidik.
+  Aplikasi mobile resmi SDN Babadan 01 untuk pemantauan presensi gerbang RFID sekolah secara real-time, rekapitulasi e-Rapor Kurikulum Merdeka, dan buku ketertiban murid bagi wali murid serta tenaga pendidik.
 </p>
 
 [Unduh APK Resmi](https://get.babadan.sch.id) • [Portal Sekolah](https://babadan.sch.id) • [Portal SSO](https://sso.babadan.sch.id)
